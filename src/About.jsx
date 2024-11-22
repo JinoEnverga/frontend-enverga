@@ -74,7 +74,7 @@ function About() {
             }}
           >
             <img
-              src="\src\Jino.jpg"
+              src="https://scontent.fcrk2-2.fna.fbcdn.net/v/t39.30808-6/466146943_882368107381677_8631814977632440880_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHp4J4YGWB3DbSm7Wk9TWa4CAvD0dGXVGEIC8PR0ZdUYWeUOZHEvEtQC7G49nbTFdNAD2H2Kad6OunS3bH6hUMN&_nc_ohc=68DUNmNVGJQQ7kNvgFK3FEE&_nc_zt=23&_nc_ht=scontent.fcrk2-2.fna&_nc_gid=AtGzcQ7zsExlSV8g25VSNtb&oh=00_AYBfFGY-LGxPQIUcc_q4KFRvM9PTkCX_SAQ8y49AuEe0Kg&oe=67464126"
               alt="Jino Enverga"
               style={{
                 width: '100%',
