@@ -57,27 +57,27 @@ function Hobbies() {
         <HobbyCard
           title="Pets"
           items={[
-            { img: "src/assets/Image/Pets/Cat(2).jpg", name: "Neku" },
-            { img: "src/assets/Image/Pets/Cat(3).jpg", name: "Uken" },
+            { img: "https://scontent.fcrk4-2.fna.fbcdn.net/v/t1.6435-9/38412067_898830343638356_4678384734525456384_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=0b6b33&_nc_eui2=AeHwv4tZiXMttvetQGIF5sj6GalpuormyjkZqWm6iubKOZpMwbGCKDuqKZ2hR3Fny0DuXsJo_1w7pgLit0rOKiRz&_nc_ohc=0YJgt_-UrtIQ7kNvgEAD0pc&_nc_zt=23&_nc_ht=scontent.fcrk4-2.fna&_nc_gid=Ari2VuZoDoEQhO7In3zTGoQ&oh=00_AYA0UpvOXx1EeAOoEkfGr4hhFfx-e4hMlbSecJNc8wburQ&oe=6767C276", name: "Neku" },
+            { img: "https://scontent.fcrk2-2.fna.fbcdn.net/v/t39.30808-6/466124268_1108112894222856_2193330990048620909_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGKwpTwaEqbrcrtGBmFFi1sMEyrg17uMD8wTKuDXu4wP6fPYfnICkxIjRLuS4tWl6KMDf8SOPehVv5rwDpLvDFW&_nc_ohc=XZ4XD2SwFE4Q7kNvgGnGcpn&_nc_zt=23&_nc_ht=scontent.fcrk2-2.fna&_nc_gid=AqQgIirFaFgKFmRtKFqqcNX&oh=00_AYCVyXb0IpmBdnjhjz5QITVThvyPFIYoAWnEaQY0xNRhBw&oe=674645C1", name: "Uken" },
           ]}
         />
         {/* Sports Card */}
         <HobbyCard
           title="Sports"
           items={[
-            { img: "src/assets/Image/Sports/MTB.jpg", name: "Bike" },
-            { img: "src/assets/Image/Sports/Skate.jpeg", name: "Skate" },
+            { img: "https://c4.wallpaperflare.com/wallpaper/60/689/309/bike-commencal-bicycle-mountain-bike-wallpaper-preview.jpg", name: "Bike" },
+            { img: "https://images.squarespace-cdn.com/content/v1/54b93453e4b06e38ad5db55b/1423597273404-YWEL4MMEW3K3OWGQ8F2T/image-asset.jpeg?format=1000w", name: "Skate" },
           ]}
         />
         {/* Games Card */}
         <HobbyCard
           title="Games"
           items={[
-            { img: "src/assets/Image/Games/MLBB.jpg", name: "Mobile Legends" },
-            { img: "src/assets/Image/Games/COC.jpg", name: "Clash of Clans" },
-            { img: "src/assets/Image/Games/MCPE.jpg", name: "Minecraft" },
-            { img: "src/assets/Image/Games/CODM.jpg", name: "Call of Duty" },
-            { img: "src/assets/Image/Games/PUBG(2).png", name: "PUBG" },
+            { img: "https://i.pinimg.com/236x/39/ed/d8/39edd848fd3e8959a152047188ea6646.jpg", name: "Mobile Legends" },
+            { img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq3U9gQCCLQd6geuZKREjmC2icoyQnCGuFQ&s", name: "Clash of Clans" },
+            { img: "https://thumbs.dreamstime.com/b/minecraft-logo-online-game-dirt-block-illustrations-concept-design-isolated-186775550.jpg", name: "Minecraft" },
+            { img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNzdIjX96ZROPJy5KAsx2Y1M_ynHIcF6fLQg&s", name: "Call of Duty" },
+            { img: "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/PlayerUnknown%27s_Battlegrounds_Mobile.webp/180px-PlayerUnknown%27s_Battlegrounds_Mobile.webp.png", name: "PUBG" },
           ]}
         />
       </div>
