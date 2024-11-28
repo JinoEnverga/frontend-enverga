@@ -58,7 +58,7 @@ function Hobbies() {
           title="Pets"
           items={[
             { img: "https://scontent.fcrk4-2.fna.fbcdn.net/v/t1.6435-9/38412067_898830343638356_4678384734525456384_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=0b6b33&_nc_eui2=AeHwv4tZiXMttvetQGIF5sj6GalpuormyjkZqWm6iubKOZpMwbGCKDuqKZ2hR3Fny0DuXsJo_1w7pgLit0rOKiRz&_nc_ohc=0YJgt_-UrtIQ7kNvgEAD0pc&_nc_zt=23&_nc_ht=scontent.fcrk4-2.fna&_nc_gid=Ari2VuZoDoEQhO7In3zTGoQ&oh=00_AYA0UpvOXx1EeAOoEkfGr4hhFfx-e4hMlbSecJNc8wburQ&oe=6767C276", name: "Neku" },
-            { img: "https://scontent.fcrk2-2.fna.fbcdn.net/v/t39.30808-6/466124268_1108112894222856_2193330990048620909_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGKwpTwaEqbrcrtGBmFFi1sMEyrg17uMD8wTKuDXu4wP6fPYfnICkxIjRLuS4tWl6KMDf8SOPehVv5rwDpLvDFW&_nc_ohc=XZ4XD2SwFE4Q7kNvgGnGcpn&_nc_zt=23&_nc_ht=scontent.fcrk2-2.fna&_nc_gid=AqQgIirFaFgKFmRtKFqqcNX&oh=00_AYCVyXb0IpmBdnjhjz5QITVThvyPFIYoAWnEaQY0xNRhBw&oe=674645C1", name: "Uken" },
+            { img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFrIZ_vMOzYMTltzCFrjsJHSDcR5BEMvlH4A&s", name: "Uken" },
           ]}
         />
         {/* Sports Card */}
